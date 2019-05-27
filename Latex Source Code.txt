@@ -15,4 +15,6 @@
 
 {Some text added by User 2 on Branch 2}
 
+{some more text ... }
+
 \end{document}
