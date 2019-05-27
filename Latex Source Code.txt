@@ -13,4 +13,6 @@
 
 {some text}
 
+{Some text added by User 2 on Branch 2}
+
 \end{document}
